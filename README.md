@@ -9,6 +9,7 @@ SimpleChat Test iOS App
 This is my SimpleChat app for my test task for Faifly
 
 -realized oportunity to chat for two people
+
 -added autorization, delete your message option and pull to refresh data
 
 In my app i used Firebase to store and get data for my chat, because Firebase is simple realtime database what 
