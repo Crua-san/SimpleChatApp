@@ -1,11 +1,6 @@
 # SimpleChatApp
 SimpleChat Test iOS App
 
-
-# SimpleChatApp
-SimpleChat Test iOS App
-
-
 This is my SimpleChat app for my test task for Faifly
 
 -realized oportunity to chat for two people
